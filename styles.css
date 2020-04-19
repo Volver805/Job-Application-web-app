@@ -1,0 +1,35 @@
+a {
+    margin-top:2%;
+    color:white;
+}
+.header {
+    margin-top:5%;
+    text-align: center;
+}
+.img-container {
+    width:100px;
+    height:100px;
+    overflow: hidden;
+}
+.img-container img {
+    max-width: 100px;
+}
+.manage-button {
+    margin-top:5px;
+    width:100%;
+}
+table {
+    font-weight: bold;
+}
+table .form-control::placeholder {
+    color:black;
+}
+.records {
+    display:block;
+    width:95%;
+    margin:0 auto;
+    min-height:200px;
+    border:1px solid rgb(173, 173, 173);
+    border-radius:10px;
+    max-width:1300px;
+}
